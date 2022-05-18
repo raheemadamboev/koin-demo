@@ -65,7 +65,7 @@ dependencies {
     debugImplementation "androidx.compose.ui:ui-test-manifest:$compose_version"
 
     // koin
-    implementation "io.insert-koin:koin-core:3.2"
-    implementation "io.insert-koin:koin-android:3.2"
-    implementation "io.insert-koin:koin-androidx-compose:3.2"
+    implementation "io.insert-koin:koin-core:3.2.0"
+    implementation "io.insert-koin:koin-android:3.2.0"
+    implementation "io.insert-koin:koin-androidx-compose:3.2.0"
 }
